@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Marvel Demo</string>
+
+    <string name="comics">Comics</string>
+    <string name="content_description_comic_image">Comic image</string>
+
+    <string name="comic_details">Comic Details</string>
+
+    <string name="action_back">Back</string>
+    <string name="search_comics">Search comics</string>
+    <string name="clear_search">Clear search</string>
+    <string name="change_sort_order">Change sort order</string>
+
+    <string name="sort_foc_date_asc">Final order cutoff ascending</string>
+    <string name="sort_foc_date_desc">Final order cutoff descending</string>
+    <string name="sort_on_sale_date_asc">On sale date ascending</string>
+    <string name="sort_on_sale_date_desc">On sale date descending</string>
+    <string name="sort_title_asc">Title ascending</string>
+    <string name="sort_title_desc">Title descending</string>
+    <string name="sort_issue_number_asc">Issue number ascending</string>
+    <string name="sort_issue_number_desc">Issue number descending</string>
+    <string name="sort_modified_asc">Modified date ascending</string>
+    <string name="sort_modified_desc">Modified date descending</string>
+
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="error_refreshing">Error refreshing</string>
+    <string name="no_results_found">No results found</string>
+    <string name="end_of_results">End of results</string>
+
+    <string name="untitled">Untitled</string>
+    <plurals name="creator">
+        <item quantity="one">Creator</item>
+        <item quantity="other">Creators</item>
+    </plurals>
+    <plurals name="character">
+        <item quantity="one">Character</item>
+        <item quantity="other">Characters</item>
+    </plurals>
+</resources>
